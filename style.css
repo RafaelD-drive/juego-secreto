@@ -65,7 +65,7 @@ body::before {
 }
 
 .container__boton:disabled {
-    background: #1ba49b;
+    background: #98a5a4;
 }
 
 .container__texto {
